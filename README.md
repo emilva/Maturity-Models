@@ -5,6 +5,8 @@ Build status: [![Build Status](https://travis-ci.org/OWASP/Maturity-Models.svg?b
 Current QA server: http://138.68.145.52
 
 ### UI
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/emilva/Maturity-Models.svg)](https://greenkeeper.io/)
 ![image](https://cloud.githubusercontent.com/assets/656739/16320406/67632dc0-398f-11e6-8aee-8a1f9bd97364.png)
 
 ### Run from source
