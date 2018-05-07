@@ -39,7 +39,7 @@
     "winston-logsene": "^1.2.1",
     "send": "0.11.0",
     "crumb": "4.0.1",
-    "sequelize": "3.12.0"
+    "sequelize": "4.37.7"
   },
   "devDependencies": {
     "cheerio": "^0.20.0",
