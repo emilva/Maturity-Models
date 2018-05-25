@@ -45,6 +45,6 @@
   "devDependencies": {
     "cheerio": "^0.22.0",
     "markdown": "^0.5.0",
-    "supertest": "^1.2.0"
+    "supertest": "^3.1.0"
   }
 }
