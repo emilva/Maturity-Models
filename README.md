@@ -6,6 +6,7 @@ Current QA server: http://138.68.145.52
 
 ### UI
 ![image](https://cloud.githubusercontent.com/assets/656739/16320406/67632dc0-398f-11e6-8aee-8a1f9bd97364.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilva%2FMaturity-Models.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Femilva%2FMaturity-Models?ref=badge_shield)
 
 ### Run from source
 
@@ -75,3 +76,7 @@ The data is stored in the repo https://github.com/DinisCruz/BSIMM-Graphs-Data wh
   - https://graves.cl/radar-chart-d3/ "Example of radar chart"
   - http://bl.ocks.org/chrisrzhou/2421ac6541b68c1680f8 : "D3 Radar Chart - AngularJS application showcasing an interactive D3 radar chart (with facetting)."
   - https://gist.github.com/chrisrzhou/2421ac6541b68c1680f8 : "D3 Radar Chart"
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilva%2FMaturity-Models.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Femilva%2FMaturity-Models?ref=badge_large)
