@@ -25,7 +25,7 @@
     "async": "^1.5.2",
     "body-parser": "^1.18.3",
     "coffee-script": "^1.10.0",
-    "crumb": "4.0.1",
+    "crumb": "7.2.0",
     "d3": "^3.5.16",
     "express": "^4.16.3",
     "express-load": "^1.1.15",
