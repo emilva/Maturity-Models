@@ -1,3 +1,5 @@
+AWS_SECRET_KEY_TEST=Zr4iQQ2dZr4iQQ2dZr4iQQ2dZr4iQQ2dZr4iQQ2d
+
 Node application to help managing Maturity Models like the ones created by BSIMM and OpenSAMM
 
 Build status: [![Build Status](https://travis-ci.org/OWASP/Maturity-Models.svg?branch=master)](https://travis-ci.org/OWASP/Maturity-Models)
