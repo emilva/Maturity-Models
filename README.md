@@ -1,4 +1,5 @@
 AWS_SECRET_KEY_TEST=Zr4iQQ2dZr4iQQ2dZr4iQQ2dZr4iQQ2dZr4iQQ2d
+test
 
 Node application to help managing Maturity Models like the ones created by BSIMM and OpenSAMM
 
