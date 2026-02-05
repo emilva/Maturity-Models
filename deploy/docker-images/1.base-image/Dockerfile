@@ -1,4 +1,4 @@
-FROM    node
+FROM    node:25.6.0-bookworm
 
 RUN 	git clone https://github.com/DinisCruz/BSIMM-Graphs.git
 WORKDIR BSIMM-Graphs
